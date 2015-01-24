@@ -1,0 +1,14 @@
+{
+  "name": "automatization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "opn": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-connect": "^2.2.0",
+    "opn": "^1.0.1"
+  }
+}
